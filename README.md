@@ -23,5 +23,4 @@
       target="_blank"</a>
   </div>
        
-      ![Snake animation](https://github.com/JonadabHonorio-contribution-grid-snake.svg)
-    
+      ![Snake animation](https://github.com/JonadabHonorio/JonadabHonorio/blob/output/github-contribution-grid-snake.svg)
