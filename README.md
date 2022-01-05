@@ -10,7 +10,7 @@
     <img img align="center" alt="Jonadab-HTML"  width="40" src="https://img.icons8.com/color/40/000000/html-5--v1.png"/>
     <img img align="center" alt="Jonadab-CSS"  width="40" src="https://img.icons8.com/color/40/000000/css3.png"/>
     <img img align="center" alt="Jonadab-Node"  width="40" src="https://img.icons8.com/color/40/000000/nodejs.png"/>
-  </div> .
+  </div> 
   
  ##
  
