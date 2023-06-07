@@ -4,8 +4,10 @@
   <a href="https://github.com/JonadabHonorio">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JonadabHonorio&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 </div> 
- 
- <div style="display: inline_block"> 
+  
+<!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JonadabHonorio&show_icons=true&theme=dark&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)-->
+
+ <div style="display: inline_block && marggin top: 30"><br>
     <img img align="center" alt="Jonadab-Js"  width="40" src="https://img.icons8.com/color/40/000000/javascript--v1.png"/>
     <img img align="center" alt="Jonadab-HTML"  width="40" src="https://img.icons8.com/color/40/000000/html-5--v1.png"/>
     <img img align="center" alt="Jonadab-CSS"  width="40" src="https://img.icons8.com/color/40/000000/css3.png"/>
