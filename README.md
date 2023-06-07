@@ -11,14 +11,17 @@
     <img img align="center" alt="Jonadab-Js"  width="40" src="https://img.icons8.com/color/40/000000/javascript--v1.png"/>
     <img img align="center" alt="Jonadab-HTML"  width="40" src="https://img.icons8.com/color/40/000000/html-5--v1.png"/>
     <img img align="center" alt="Jonadab-CSS"  width="40" src="https://img.icons8.com/color/40/000000/css3.png"/>
+    <img img align="center" alt="Jonadab-VUEJS"  width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg"/>
    <!--  <img img align="center" alt="Jonadab-Node"  width="40" src="https://img.icons8.com/color/40/000000/nodejs.png"/> -->
-  </div> 
+ </div> 
   
  ##
  
  <div>
+       <a href="https://www.linkedin.com/in//jonadab-honorio-5a3440261/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
        <a href = "mailto:honoriojonadab@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  </div>
+  
+ </div>
   
         
       
