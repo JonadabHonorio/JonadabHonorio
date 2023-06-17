@@ -1,10 +1,10 @@
 ## 🖖🏻 Olá! Seja Bem Vindo(a) Ao Meu Perfil De Projetos.
 
-<div align="center"><br>
+<div align="center">
   <p>📓 Engenharia de Software - UNIPÊ 📓</p>
 </div>  
 
-<div align="center"><br>
+<div align="center">
   <a href="https://github.com/JonadabHonorio">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JonadabHonorio&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 </div> 
