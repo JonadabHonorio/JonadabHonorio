@@ -28,8 +28,8 @@
   
  </div>
   
-        
-  
+  <!---
   ![Snake animation](https://github.com/JonadabHonorio/JonadabHonorio/blob/output/github-contribution-grid-snake.svg)
+  --->
      
       
