@@ -17,7 +17,7 @@
    <img img align="center" alt="Icone-CSS"  width="40" src="https://img.icons8.com/color/40/000000/css3.png"/>
    <img img align="center" alt="Icone-Js"  width="40" src="https://img.icons8.com/color/40/000000/javascript--v1.png"/>
    <img img align="center" alt="Icone-VUEJS"  width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg"/>  
-   <!--  <img img align="center" alt="Jonadab-Node"  width="40" src="https://img.icons8.com/color/40/000000/nodejs.png"/> -->
+    <img img align="center" alt="Jonadab-Node"  width="40" src="https://img.icons8.com/?size=512&id=hsPbhkOH4FMe&format=png"/> 
  </div> 
   
  ##
