@@ -9,7 +9,7 @@
     
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JonadabHonorio&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 </div> 
-  
+
 <!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JonadabHonorio&show_icons=true&theme=dark&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)-->
 
  <div style="display: inline_block && marggin top: 30"><br>
@@ -27,7 +27,6 @@
        <a href = "mailto:honoriojonadab@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   
  </div>
-
  
   <!---
   ![Snake animation](https://github.com/JonadabHonorio/JonadabHonorio/blob/output/github-contribution-grid-snake.svg)
