@@ -15,8 +15,7 @@
  <div style="display: inline_block && marggin top: 30"><br>
    <img img align="center" alt="Icone-HTML"  width="40" src="https://img.icons8.com/color/40/000000/html-5--v1.png"/>
    <img img align="center" alt="Icone-CSS"  width="40" src="https://img.icons8.com/color/40/000000/css3.png"/>
-   <img img align="center" alt="Icone-Js"  width="40" src="https://img.icons8.com/color/40/000000/javascript--v1.png"/>
-   <img img align="center" alt="Icone-VUEJS"  width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg"/>  
+   <img img align="center" alt="Icone-Js"  width="40" src="https://img.icons8.com/color/40/000000/javascript--v1.png"/> 
     <img img align="center" alt="Icone-Node.js" width="40" src="https://img.icons8.com/?size=512&id=hsPbhkOH4FMe&format=png"/> 
  </div> 
   
